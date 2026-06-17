@@ -62,8 +62,7 @@ while True:
 
     elif user == "good night":
         print("Bot: Good night. Sleep well!")
-
-
+        
     elif user == "help":
         print("\nAvailable Commands:")
         print("hello, hi, hey")
